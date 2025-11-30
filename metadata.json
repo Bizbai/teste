@@ -1,0 +1,7 @@
+{
+  "name": "olookperfeito",
+  "description": "A minimalistic virtual try-on application where users can visualize outfits using AI. Upload a base photo and clothing items to generate a realistic look.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
